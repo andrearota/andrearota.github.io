@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Welcome
 permalink: /about/
 ---
 
-Some information about you!
+My first bootstrap was in [Bergamo](https://en.wikipedia.org/wiki/Bergamo), at epoch time [428034600](http://www.epochconverter.com/). I was released to the general audience in 2008, after being certified as ~~computer engineer~~ engineering computer.
 
-### More Information
+I love to use my CPU time to solve interesting problems, and sometime I even get paid for it.
 
-A place to include any other types of information that you'd like to include about yourself.
+Right now I am configured as _data engineer_: I run big data systems and I write programs that crunch billions of numbers, helping companies in improving their business through data-driven decisions.
 
-### Contact me
+If you want to ping me, just send a packet to `andrearota37354 at gmail dot com`.
 
-[email@domain.com](mailto:email@domain.com)
+_(freely inspired to [Richard Stallman's Humorous Bio](https://stallman.org/biographies.html))_
