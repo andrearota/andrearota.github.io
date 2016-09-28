@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Helo
+title: HELO
 permalink: /about/
 ---
 
