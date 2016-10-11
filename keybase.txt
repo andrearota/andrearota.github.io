@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/arota
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.andrearota.com
+  * I am arota (https://keybase.io/arota) on keybase.
+  * I have a public key with fingerprint AE75 DD6A 531D 4FFB 4042  6E81 28E3 8D6F 7239 5237
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d17f68cc1edc95a987ff9a2998cb34dcb7713d557c6d950568677c032f2ef00a0a",
+            "fingerprint": "ae75dd6a531d4ffb40426e8128e38d6f72395237",
+            "host": "keybase.io",
+            "key_id": "28e38d6f72395237",
+            "kid": "0101d17f68cc1edc95a987ff9a2998cb34dcb7713d557c6d950568677c032f2ef00a0a",
+            "uid": "474166a208cef9e3e1adff2794f81519",
+            "username": "arota"
+        },
+        "service": {
+            "hostname": "www.andrearota.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476220415,
+    "expire_in": 157680000,
+    "prev": "c0a8426b8f71d8bc23792306a5d145c7dd5cf545fa908dd75cbd1e80e3445e44",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUmtMFFcU3gWKBeRRtSgpLWZA8UFh3o9tadCCGEVCjF37kK4zc+8s04WZdXfZ
+hVISqhaRaFqlolRWYwCpCBatTQUEIaU2UEsQBQJCqkjxEUz6hJaKdIbYf/3Z++fe
+e873ffc7555Pgn0NgcZVdw+qDm4rY/z+gWDYPmvOKEAEFeQjpgLEBuc3mA2g02Wx
+yQAxISiGYgBjJJoVRQwCkaN4jmUkieNxjmNFgSCBKDAMRgCKYkQacBRK0SzNMCJK
+4BIOJRTlUR6JQyRZsUKH3SErLk2WhwwFAM1TBAZISRJIlMRpyGI4CwkW0BKDExyF
+E4xGzFKdOkMzJ/BOGC+rWky7WObt/Qf+f/adOy9HMiRG0zyOsiKUOEhAjAeShDMc
+KbEYhXE60AkdCp8D9eocqotHCuMQLeSWRah3VS/jadrj8cTzCnDAeVy8qOZodLt2
+VkU1W8tnuVx2k0535dvn8VCwPFWyCLICtE5qBDd0OGVVQUyYhhRdsi6NkQyN4yiJ
+UXEIzLPLDmiRdQTF0CyqLf0Z6NYkRZRnybdxWmAlBgOsIGq943AC1X4EYCQlMgBQ
+okSRlMRzKAsAQ4kCwCCLQoIkKUiSiF7cLkVFTKTmk7dqmk7ZqvCuXAdECgP3+0T6
+GYyBBv9nfPQZMwQGhP07eNlhobMvYjbbDbbKl7kV05oyt6PribkgNq389eZvskbT
+PQPDjz8ffHzvq57V0ftThJO+LR9OhN35paukuL1paP2nOcPgyP1lqS9zjc6N7bPW
+XtdIrwUbebZ5Z6nobUxabMzmW/Cx1Jm9N5tNHUumtz8MnrrU4FObT1Ss7LyY+lYJ
++mPD3NqPLb0DIaMh9TUhT4J64rrDB2pjs6PWXo+5f3hSyWIuBGfYCq4dvTkU9NN0
+6HBBaenEuY7onnHz18i25MHv9pTdvprf0pcZUOh+6arNRqeffyfvluH3F8ZPKVtn
+UhLNFeY3C/F+66tHqmwLltcPHiqpGqgkyPIfPjh33GCNmr69w5GwYmH/+2uuVE4e
+7pOuZW6JIW7s6TPG+K1P2/2ZJy/z4d9/qFP7lrV3nuheHNod0R/Rdrq0YUnbybPM
+a5GLauFlr+fMZsO3RGt9Y5Pdfwb3qu+eMBUvyKeqT+WMhK8j151P7Dj0iFtePHT6
+uUdx9yZGWgO8G8ouVieVdUxWrE6sS5i9EJ323nDCpoiYtu6Pkmt2hvr5p011boy8
+VLdqMH3R83+2ruhaOmbZMHUlSEmfNH9hOnPsr4zyfQNVUb9NL+wTL88WfVl3t30u
+KelsYvnxvVSTddc2vDqB9Vuz2f3rz7GDASsPFB1tyB0r4qe23JHCD2aML63ZndzY
+9Uql9YHxjTzFneG6Pip7/wE=
+=wWCZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arota
+
+==================================================================
+
